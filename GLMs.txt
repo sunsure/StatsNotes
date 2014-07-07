@@ -1,0 +1,15 @@
+Generalized Linear Models
+
+1) Exponential Family
+- Normal Distribution
+- Poisson Distribution
+- Binomial Distribution
+- Gamma Distribution
+
+2) Link Functions and Linear Predictors
+- Link functions
+- Linear Predictors
+
+3) Deviance of Model Fitting
+
+4) Residuals Analysis and Assessment of Model Fit
